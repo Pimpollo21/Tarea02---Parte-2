@@ -23,7 +23,7 @@ Los colores del html los he ido comprobando desde la web [htmlcolordes](http://h
 ![Color 3](/img/color_fondo_párrafos.PNG).
 ![Color 4](/img/color_cabecera_tabla.PNG).
 ![Color 5](/img/color_lineas_tabla.PNG).
-![Color 6](/img/color_botones_enlaces2.PNG).
+![Color 6](/img/color_botones_enlaces2.png).
 
 ## Paso 3: validar el HTML.
 Una vez establecidos todos los archivos, nos disponemos a validar el html. Para ello, he copiado el enlace del html de GitHub y lo he añadido a [RawGit](https://rawgit.com) para obtener un enlace. Mediante dicho enlace, me he dirigido a la web [validador w3](https://validator.w3.org) y he copiado allí el enlace.
