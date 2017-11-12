@@ -11,7 +11,7 @@ También he añadido ejemplos del uso de **_id_**  y **_clase_**.
 
 Cabe decir que en el html he indicado los serparadores **_div_** de las secciones de cabecera, el cuerpo en sí del html y como "final", la sección de los enlaces. He escogido darle los formatos directamente desde css mediante los selectores puesto que me permiten más flexibilidad que darle un estilo desde las etiquetas div.
 
-UUna vez finalizado, he añadido la carpeta con el html y el resto de carpetas al presente repositorio de GitHub, junto al archivo README.md.
+Una vez finalizado, he añadido la carpeta con el html y el resto de carpetas al presente repositorio de GitHub, junto al archivo README.md.
 
 Los apuntes en los que me he basado para la realización del html provienen de la web [w3Schools](https://www.w3schools.com/).
 
@@ -23,7 +23,7 @@ Los colores del html los he ido comprobando desde la web [htmlcolordes](http://h
 ![Color 3](/img/color_fondo_párrafos.PNG).
 ![Color 4](/img/color_cabecera_tabla.PNG).
 ![Color 5](/img/color_lineas_tabla.PNG).
-![Color 6](/img/color_botones_enlaces.PNG).
+![Color 6](/img/color_botones_enlaces2.PNG).
 
 ## Paso 3: validar el HTML.
 Una vez establecidos todos los archivos, nos disponemos a validar el html. Para ello, he copiado el enlace del html de GitHub y lo he añadido a [RawGit](https://rawgit.com) para obtener un enlace. Mediante dicho enlace, me he dirigido a la web [validador w3](https://validator.w3.org) y he copiado allí el enlace.
