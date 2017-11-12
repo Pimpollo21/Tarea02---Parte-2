@@ -47,4 +47,4 @@ Por último, he creado el presente fichero README en el repositorio con los deta
 
 ## Dirección URL.
 Mi web es: [SwitchPlay](https://rawgit.com/Pimpollo21/Tarea02/master/SwitchPlay.html).
-(La dirección de RawGit es: https://rawgit.com/Pimpollo21/Tarea02/master/SwitchPlay.html )
+(La dirección de RawGit es: https://rawgit.com/Pimpollo21/Tarea02-Parte-2/master/SwitchPlay2.html )
