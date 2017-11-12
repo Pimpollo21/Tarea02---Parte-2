@@ -18,12 +18,12 @@ Los apuntes en los que me he basado para la realización del html provienen de l
 ## Paso 2: paleta de colores.
 Los colores del html los he ido comprobando desde la web [htmlcolordes](http://htmlcolorcodes.com/es/). Los colores que he escogido son los siguientes:
 
-![Color 1](/img/Captura_antes.PNG).
-![Color 2](/img/Captura_después.PNG).
-![Color 3](/img/Tamaño_comparación.PNG).
-![Color 4](/img/Tamaño_comparación.PNG).
-![Color 5](/img/Tamaño_comparación.PNG).
-![Color 6](/img/Tamaño_comparación.PNG).
+![Color 1](/img/color_cabacera_1.PNG).
+![Color 2](/img/color_cabacera_2.PNG).
+![Color 3](/img/color_fondo_párrafos.PNG).
+![Color 4](/img/color_cabecera_tabla.PNG).
+![Color 5](/img/color_lineas_tabla.PNG).
+![Color 6](/img/color_botones_enlaces.PNG).
 
 ## Paso 3: validar el HTML.
 Una vez establecidos todos los archivos, nos disponemos a validar el html. Para ello, he copiado el enlace del html de GitHub y lo he añadido a [RawGit](https://rawgit.com) para obtener un enlace. Mediante dicho enlace, me he dirigido a la web [validador w3](https://validator.w3.org) y he copiado allí el enlace.
