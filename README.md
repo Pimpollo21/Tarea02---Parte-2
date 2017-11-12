@@ -18,7 +18,7 @@ Los apuntes en los que me he basado para la realización del html provienen de l
 ## Paso 2: paleta de colores.
 Los colores del html los he ido comprobando desde la web [htmlcolordes](http://htmlcolorcodes.com/es/). Los colores que he escogido son los siguientes:
 
-![Color 1](/img/color_cabacera_1.PNG.
+![Color 1](/img/color_cabecera_1.PNG.
 
 ![Color 2](/img/color_cabacera_2.PNG).
 
