@@ -46,5 +46,5 @@ Tras la corrección de dichos errores, al volver a validar:
 Por último, he creado el presente fichero README en el repositorio con los detalles de los pasos que he seguido para llevar a cabo la tarea. 
 
 ## Dirección URL.
-Mi web es: [SwitchPlay](https://rawgit.com/Pimpollo21/Tarea02/master/SwitchPlay.html).
+Mi web es: [SwitchPlay](https://github.com/Pimpollo21/Tarea02-Parte-2/blob/master/SwitchPlay2.html ).
 (La dirección de RawGit es: https://rawgit.com/Pimpollo21/Tarea02-Parte-2/master/SwitchPlay2.html )
