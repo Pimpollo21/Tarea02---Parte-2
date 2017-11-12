@@ -40,7 +40,7 @@ Tras la primera validación me surgieron los siguientes errores:
 
 Tras la corrección de dichos errores, al volver a validar:
 
-![Vlidación](/img/validación.PNG).
+![Validación](/img/validación.PNG).
 
 ## Paso 5: Creación del README.md.
 Por último, he creado el presente fichero README en el repositorio con los detalles de los pasos que he seguido para llevar a cabo la tarea. 
